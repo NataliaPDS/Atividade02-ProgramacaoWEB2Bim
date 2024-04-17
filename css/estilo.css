@@ -105,7 +105,8 @@ h1{
          display: block; /*Ficar uma tela embaixo da outra quando sair da guia de tela cheia*/
          width: 100%;
          height: auto;
-         
+         padding-left: 30%;
+         margin-top: 10%;
     }
     #tela1
     {
